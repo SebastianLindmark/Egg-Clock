@@ -6,5 +6,5 @@ An arduino based egg clock
 * 4 digit 8 segment display
 * 3 LEDs
 * Two buttons
-* One button with buildin LEDs
+* One button with buildin LED
 * Buzzer
