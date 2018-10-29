@@ -1,5 +1,5 @@
 # Egg-Clock
-An arduino based egg clock
+A hobby project implementing an egg clock using an arduino board. 
 
 ## Components
 * Arduino Nano
